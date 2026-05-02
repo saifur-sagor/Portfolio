@@ -55,7 +55,7 @@ const About = () => {
           <motion.div 
             className="lg:col-span-5 rounded-3xl overflow-hidden border border-border-purple/30 aspect-square lg:aspect-auto lg:h-[400px] bg-center bg-cover"
             style={{
-              backgroundImage: `url('/public/About.png')`
+              backgroundImage: `url('/About.png')`
             }}
             initial={{ opacity: 0, x: -50 }}
             whileInView={{ opacity: 1, x: 0 }}

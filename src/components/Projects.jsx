@@ -9,7 +9,7 @@ const Projects = () => {
     {
       title: 'Foody Delivery System',
       description: 'A comprehensive food delivery platform with real-time tracking.',
-      image: '/public/Foody.png',
+      image: '/Foody.png',
       technologies: ['Next.js','React','JS(ES6+)','Tailwind',],
       liveUrl: 'https://foody-beige-zeta.vercel.app',
       sourceUrl: 'https://github.com/saifur-sagor/Next-Js-First-Project',
@@ -18,7 +18,7 @@ const Projects = () => {
     {
       title: 'Book Courier Logistics',
       description: 'Full-scale logistics management system for local couriers.',
-      image: '/public/BookCourier.png',
+      image: '/BookCourier.png',
       technologies: ['MERN Stack'],
       liveUrl: 'https://bookcouriersrs.netlify.app',
       sourceUrl: 'https://github.com/saifur-sagor/Assignment-11-Client-Side',
@@ -27,7 +27,7 @@ const Projects = () => {
     {
       title: 'E-learnin Portal',
       description: 'Modern multi-vendor shop with responsive dashboard.',
-      image: '/public/LurnHub.png',
+      image: '/LurnHub.png',
       technologies: ['MERN Stack'],
       liveUrl: 'https://learnhub55.netlify.app',
       sourceUrl: 'https://github.com/saifur-sagor/Assignment-10-client-side',

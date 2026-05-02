@@ -141,7 +141,7 @@ const Hero = () => {
             className="relative z-10 w-full max-w-[500px] aspect-square bg-center bg-no-repeat bg-contain animate-floating rounded-full"
             style={{
               backgroundImage:
-                "url('/public/profile.png')",
+                "url('/profile.png')",
             }}
           ></div>
 
