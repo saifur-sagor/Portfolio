@@ -118,7 +118,7 @@ const Hero = () => {
             >
               <a
                 className="flex items-center gap-2"
-                href="https://drive.google.com/file/d/1T1beUV7p5SoEzO86Rga1FIpTm0gCLJTl/view?usp=sharing"
+                href="/public/Mern_Stack_Resume.pdf"
                 target="_blank"
               >
                 <Download className="w-4 h-4" />
@@ -141,7 +141,7 @@ const Hero = () => {
             className="relative z-10 w-full max-w-[500px] aspect-square bg-center bg-no-repeat bg-contain animate-floating rounded-full"
             style={{
               backgroundImage:
-                "url('https://i.ibb.co.com/C3kpJcKb/Whats-App-Image-2026-01-22-at-1-24-38-PM-removebg-preview.png')",
+                "url('/public/profile.png')",
             }}
           ></div>
 

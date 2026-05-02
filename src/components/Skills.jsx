@@ -3,7 +3,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Database, Settings } from 'lucide-react'
 import { motion } from 'framer-motion'
 
-// প্রয়োজনীয় আইকনগুলো ইম্পোর্ট করে নিন
+// Icons for skills
 import { FaCode, FaReact, FaNodeJs, FaGitAlt, FaDocker } from "react-icons/fa6";
 import { SiNextdotjs, SiTailwindcss, SiRedux, SiFramer, SiMongodb, SiPostman, SiFirebase, SiVercel, SiJsonwebtokens } from "react-icons/si";
 import { TbApi } from "react-icons/tb";
