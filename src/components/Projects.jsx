@@ -37,6 +37,7 @@ const Projects = () => {
 
   return (
     <section className="py-24 bg-background-light dark:bg-background-dark" id="projects">
+      <title>Projects Section</title>
       <div className="max-w-7xl mx-auto px-6 lg:px-10">
         <motion.div 
           className="flex flex-col items-center text-center mb-16"

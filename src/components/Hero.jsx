@@ -50,7 +50,8 @@ const Hero = () => {
     <section
       className="relative min-h-screen flex items-center pt-24 lg:pt-0 overflow-hidden bg-gradient-to-br from-background-dark via-background-dark to-primary/5"
       id="home"
-    >
+    ><title>Hero Section</title>
+      <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-primary/10 blur-[120px] rounded-full -translate-y-1/2 translate-x-1/2"></div>
       <div className="max-w-7xl mx-auto px-6 lg:px-10 grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
 
         {/* LEFT CONTENT */}
@@ -118,7 +119,7 @@ const Hero = () => {
             >
               <a
                 className="flex items-center gap-2"
-                href="/public/Mern_Stack_Resume.pdf"
+                href="/Mern_Stack_Resume.pdf"
                 target="_blank"
               >
                 <Download className="w-4 h-4" />

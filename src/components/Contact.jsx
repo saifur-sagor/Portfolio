@@ -77,6 +77,7 @@ const Contact = () => {
 
   return (
     <section className="py-24 relative overflow-hidden bg-background-dark" id="contact">
+      <title>Contact Section</title>
       <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-primary/10 blur-[120px] rounded-full -translate-y-1/2 translate-x-1/2"></div>
       
       <div className="max-w-7xl mx-auto px-6 lg:px-10 relative z-10">

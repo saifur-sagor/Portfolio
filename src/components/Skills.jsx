@@ -44,6 +44,7 @@ const Skills = () => {
 
   return (
     <section className="py-24 relative overflow-hidden bg-background-dark" id="skills">
+      <title>Skills Section</title>
       <div className="max-w-7xl mx-auto px-6 lg:px-10">
         <div className="flex justify-between items-end mb-16">
           <motion.div
